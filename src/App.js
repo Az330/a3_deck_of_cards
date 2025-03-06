@@ -1,3 +1,8 @@
+/*
+ * I, Abdulaziz Haybe, 000916530, certify that this material is my original work.
+ * No other person's work has been used without due acknowledgement.
+ */
+
 import React, { useState } from "react";
 import "./App.css";
 import logo from "./logo.svg"; // Updated: Added the logo
